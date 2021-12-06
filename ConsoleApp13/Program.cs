@@ -25,6 +25,7 @@ public class program
                 string ps = Convert.ToString(Console.ReadLine());
                 Console.Write("Kelas :");
                 string kelas = Convert.ToString(Console.ReadLine());
+             
             }
         }
     }
